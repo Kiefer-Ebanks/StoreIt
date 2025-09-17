@@ -34,9 +34,9 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <Image
             src="/assets/icons/logo-full-brand.svg"
             alt="logo"
-            width={244}
+            width={224}
             height={82}
-            className="h h-auto w-[200px] lg:w-[250px]"
+            className="h-auto w-[200px] lg:w-[250px]"
           />
         </div>
         {children}
