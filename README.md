@@ -4,6 +4,7 @@
 A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
   <div>
+    <p> </p>
     <p>Built with the following technologies:</p>
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -15,11 +16,11 @@ A storage management and file sharing platform that lets users effortlessly uplo
 
 ## 📋 <a name="table">Table of Contents</a>
 
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🔗 [Assets](#links)
+5. 🚀 [More](#more)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -69,7 +70,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
+git clone https://github.com/Kiefer-Ebanks/StoreIt.git
 cd storage_management_solution
 ```
 
