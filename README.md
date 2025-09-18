@@ -23,7 +23,7 @@ A storage management and file sharing platform that lets users effortlessly uplo
 5. 🚀 [More](#more)
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - React 19
 - Next.js 15
@@ -32,7 +32,7 @@ A storage management and file sharing platform that lets users effortlessly uplo
 - ShadCN
 - TypeScript
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
 
@@ -55,7 +55,7 @@ A storage management and file sharing platform that lets users effortlessly uplo
 and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
 reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -107,7 +107,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
+## <a name="links">Assets</a>
 
 - Assets used in the project can be found [here](https://jsm.dev/gdrive-kit)
 
